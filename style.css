@@ -1,0 +1,10 @@
+@charset "utf-8";
+/*
+Theme Name:     Legato
+Description:    日本語Blog向けのTwenty Eleven子テーマ
+Author:         kasedac
+Template:       twentyeleven
+Version:        0.1
+*/
+
+@import url('../twentyeleven/style.css');
